@@ -5,6 +5,8 @@ public class NoMusica {
     String titulo;
     // Guarda a referência para a próxima música.
     NoMusica proximo;
+
+
     public NoMusica(String titulo) {
         // O objeto recebe o título informado ao construtor.
         this.titulo = titulo;
