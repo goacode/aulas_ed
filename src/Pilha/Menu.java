@@ -16,8 +16,7 @@ public class Menu {
 
                 case 1:
 
-                    PilhaMusicas.empilhar(
-                    );
+
 
             }
         }
